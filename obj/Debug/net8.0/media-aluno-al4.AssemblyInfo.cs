@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("media-aluno-al4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9dd89979942c2b4538fc94c62b5ed2e6190c6af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+44674427eb3291e392b777fe14b27cf4962c8218")]
 [assembly: System.Reflection.AssemblyProductAttribute("media-aluno-al4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("media-aluno-al4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
